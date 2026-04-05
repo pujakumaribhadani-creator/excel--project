@@ -56,10 +56,18 @@ Pivot Tables
 Data Visualization (Charts & Dashboard)
 📷 Dashboard Preview
 📊 Dashboard Page 1
-![Dashboard Page 1](images/ecommerce_dashboard1.png)
+![Dashboard Page 1](Screenshot 2026-04-05 121909 ecommerce.png)
 📊 Dashboard Page 2
-![Dashboard Page 2](images/ecommerce_dashboard2.png)
+![Dashboard Page 2](Screenshot 2026-04-05 123018 ecommerce2.png)
 
+🎯 Project Impact
+
+This dashboard helps in:
+
+Understanding customer behavior
+Analyzing sales trends and performance
+Evaluating product return patterns
+Supporting data-driven business decisions
 
 
 Puja Kumari
