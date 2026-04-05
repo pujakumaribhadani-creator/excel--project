@@ -79,10 +79,10 @@ The goal is to generate useful insights that can help improve business decisions
 ## 📷 Dashboard Preview  
 
 ### Dashboard 1  
-![Dashboard](dashboard1.png))
+![Dashboard](dashboard2.png))
 
 ### Dashboard 2  
-![Dashboard](dashboard2.png)
+![Dashboard](dashboard1.png)
 
 ---
 
