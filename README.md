@@ -79,10 +79,10 @@ The goal is to generate useful insights that can help improve business decisions
 ## 📷 Dashboard Preview  
 
 ### Dashboard 1  
-![Dashboard](Screenshot 2026-04-05 121909 ecommerce.png)
+![Dashboard](dashboard1.png))
 
 ### Dashboard 2  
-![Dashboard](Screenshot 2026-04-05 123018 ecommerce2.png)
+![Dashboard](dashboard2.png)
 
 ---
 
